@@ -26,8 +26,8 @@ body {
 
 .crd-header {
     background: var(--warning);
-    border-top: 2px solid var(--rebecca);
-    border-bottom: 6px solid var(--rebecca);
+    border-top: 3px solid var(--danger);
+    border-bottom: 6px solid var(--danger);
     border-radius: 10px 10px 0 0;
     padding: calc(var(--inner) / 2);
     text-align: center;
@@ -35,16 +35,18 @@ body {
 
 .crd-body {
     background: var(--lrt-primary);
+/*
     border-left: 5px solid var(--warning);
     border-right: 5px solid var(--warning);
+*/
     padding: 5px var(--inner);
 }
 
 .crd-footer {
     background: var(--warning);
     border-radius: 0 0 10px 10px;
-    border-top: 6px solid var(--rebecca);
-    border-bottom: 2px solid var(--rebecca);
+    border-top: 6px solid var(--primary);
+    border-bottom: 3px solid var(--primary);
     padding: calc(var(--inner) / 2);
     height: 30px;
 }
