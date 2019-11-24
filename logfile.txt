@@ -1,2 +1,4 @@
-# GitApp
+/*  Log file
+---------------*/
+
 Practice with GitHub repository 
