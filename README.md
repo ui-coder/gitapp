@@ -1,3 +1,3 @@
-# gitapp
+# GitApp
 #
-# Practice with GitHub repository 
+Practice with GitHub repository 
