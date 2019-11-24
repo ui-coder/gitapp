@@ -1,4 +1,4 @@
 /*  Log file
 ---------------*/
 
-Practice with GitHub repository
+Practice with GitHub repository 
