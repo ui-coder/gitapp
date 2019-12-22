@@ -47,7 +47,7 @@ body {
     border-radius: 0 0 10px 10px;
     border-top: 6px solid var(--primary);
     border-bottom: 3px solid var(--primary);
-    padding: calc(var(--inner) / 2);
+    padding: calc(var(--inner) / 1);
     height: 30px;
 }
 
@@ -80,7 +80,7 @@ hr {
     height: 2px;
 }
 
-a {
+a, b {
     color: var(--invert);
 }
 
