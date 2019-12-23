@@ -21,7 +21,7 @@
         Font size
     --------------------------------------------*/
     --font-size-base: 14px;
-    --font: 1.2em/1.5em;
+    --font: 1.3em/1.5em;
     --font-size-large: calc(var(--font-size-base) * 1.25);
     /* ~18px */
     --font-size-medium: calc(var(--font-size-base) * 1.14);
