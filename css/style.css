@@ -37,11 +37,18 @@ body {
     background: var(--lrt-primary);
     padding: 5px var(--inner);
 }
+
 .back-link {
     position: var(--relt);
     top: -50px;
-    left: 640px;
+    left: 680px;
 }
+
+a {
+    --weight: bold;
+    font-weight: var(--weight);
+}
+
 .crd-footer {
     background: var(--warning);
     border-radius: 0 0 10px 10px;
