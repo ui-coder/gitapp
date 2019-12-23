@@ -7,7 +7,7 @@
     /* Typography 
     --------------------------------------------*/
     /* 
-        Font family 
+       Font family 
     --------------------------------------------*/
     --font-family-sans-serif: "Segoe UI", Verdana, Helvetica, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
     --font-family-serif: Georgia, Times, "Times New Roman", serif;
@@ -94,7 +94,7 @@
     --hvr-default: linear-gradient(#888888, #eeeeee);
     --hvr-primary: linear-gradient(#003162, #044995);
     --hvr-success: linear-gradient(#558B4F, #74BE6B);
-    --hvr-info: linear-gradient( #7FCDEF, #9CEDFF);
+    --hvr-info: linear-gradient(#7FCDEF, #9CEDFF);
     --hvr-warning: linear-gradient(#d39925, #F3BA34);
     --hvr-danger: linear-gradient(#BA4227, #D75F44);
     /* More Colors */
